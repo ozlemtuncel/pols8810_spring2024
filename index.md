@@ -6,15 +6,15 @@ layout: default
 
 - **Instructor**: Mike Fix <mfix@gsu.edu>
 
-- **Teaching Assistant**: Ozlem Tuncel <otuncelgurlek1@student.gsu.edu>
+- **Teaching Assistant**: Ozlem Tuncel <otuncelgurlek1@gsu.edu>
 
-- **Meeting Time**: Thursday 12:45 pm – 03:15 pm
+- **Meeting Time**: TBA
 
-- **Class Location**: Langdale Hall 1004
+- **Class Location**: TBA
 
 # Ozlem's Office Hours and TA Sessions
 - My office: Langdale Hall Room 1027
-- Office hours: Monday 1-3 pm and Thursday 9-11 am.
+- Office hours: **TBA**
 - In addition to office hours, I will be conducting lab sessions for three purposes: to answer your software related questions, supplementing class material, questions about problem sets, and help with general methodology matters. If you have any particular subject that you want to discuss in these workshops, please let me know!
 
 # Slides, Notes, and Tips
