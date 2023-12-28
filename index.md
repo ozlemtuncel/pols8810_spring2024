@@ -26,17 +26,18 @@ layout: default
 
 [Week 1 Slides](docs/01Matrix.pdf)
 
+[Week 1 Handout Greek Letters](docs/The Greek Alphabet in Latex.pdf)
+[Week 1 Handout Linear Algebra Exercise](docs/Matrix_Algebra_Questions.pdf)
+
 [Ozlem's notes from Week 1 class](docs/week1.md)
 
 ### Software and others
-> ✔️ Goal 1: Participate in Josh's R sessions to learn more about base R.
+> ✔️ Goal 1: Participate in GSU Library's R sessions to learn more about base R.
 
 > ✔️ Goal 2: Get familiar with LaTeX to typeset your problem sets.
 
-> ⚠️ Josh's workshops are not mandatory, but I highly recommend them! 
-
 **Learning LaTeX**
-I encourage all of you to get familiar with **LaTeX** or similar kind of document preparation system to typset your problem sets. GSU offers online/in-person LaTeX course. I use Overleaf for typetting these sort of documents. Recently, I have been using Quarto in R and Phyton to typeset reports and presentations. Here are some useful links to learn LaTeX:
+I encourage all of you to get familiar with **LaTeX** or similar kind of document preparation system (like R Markdown or Quarto) to typset your problem sets. GSU offers online/in-person LaTeX course. I use Overleaf for typetting these sort of documents. Recently, I have been using Quarto in R and Phyton to typeset reports and presentations. Here are some useful links to learn LaTeX:
 
 - GSU Library's [LaTeX workshop](https://research.library.gsu.edu/latex)
 - Visit Dr. Fix's [website](http://michaelfix.gsucreate.org/) for his LaTeX presentations.
@@ -48,6 +49,15 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 - [Using Quarto in R](https://quarto.org/docs/get-started/hello/rstudio.html)
 - Posit's (previously known as R Studio) guide to [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)
 
+**More on R and R Studio**
+You have been working with R and R Studio since POLS 8805, but it is important to improve your skills in R. While 8805 mainly focused on *tidyverse*, I highly recommend getting familiar with **base R** since it will be essential in future assignments. Here are some useful links to learn more about R: 
+
+- GSU Library's [R Workshop Recordings](https://research.library.gsu.edu/dataservices/rds-workshops-recordings)
+- UCLA Library's [Intro to R Recordings])(https://qcb.ucla.edu/collaboratory/workshops/w3-intro-to-r/#toggle-id-1-closed)
+- Learn R in R using [Swirl](https://swirlstats.com/students.html)
+- Institute for Quantitative Social Science [Workshops](https://iqss.github.io/dss-workshops/Rinstall.html)
+- Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/)
+
 ## Week 2
 
 ### Class materials 
@@ -55,10 +65,12 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 
 [Week 2 Slides](docs/02Probability.pdf)
 
+[Week 2 Handout Notation](docs/Notation_Statistics.pdf)
+
 [Ozlem's notes from Week 2 class](docs/week2.md)
 
 ### Software and others 
-> No update here! I highly recommend Josh's R workshops. 
+> No update here! I highly recommend GSU's R workshops. 
 
 ## Week 3
 
