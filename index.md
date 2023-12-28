@@ -27,6 +27,7 @@ layout: default
 [Week 1 Slides](docs/01Matrix.pdf)
 
 [Week 1 Handout Greek Letters](docs/Greek_Alphabet_Latex.pdf)
+
 [Week 1 Handout Linear Algebra Exercise](docs/Matrix_Algebra_Questions.pdf)
 
 [Ozlem's notes from Week 1 class](docs/week1.md)
@@ -37,6 +38,7 @@ layout: default
 > ✔️ Goal 2: Get familiar with LaTeX to typeset your problem sets.
 
 **Learning LaTeX**
+
 I encourage all of you to get familiar with **LaTeX** or similar kind of document preparation system (like R Markdown or Quarto) to typset your problem sets. GSU offers online/in-person LaTeX course. I use Overleaf for typetting these sort of documents. Recently, I have been using Quarto in R and Phyton to typeset reports and presentations. Here are some useful links to learn LaTeX:
 
 - GSU Library's [LaTeX workshop](https://research.library.gsu.edu/latex)
@@ -50,10 +52,11 @@ You can alternatively learn and use **R Markdown** or **Quarto**. Here are some 
 - Posit's (previously known as R Studio) guide to [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html)
 
 **More on R and R Studio**
+
 You have been working with R and R Studio since POLS 8805, but it is important to improve your skills in R. While 8805 mainly focused on *tidyverse*, I highly recommend getting familiar with **base R** since it will be essential in future assignments. Here are some useful links to learn more about R: 
 
 - GSU Library's [R Workshop Recordings](https://research.library.gsu.edu/dataservices/rds-workshops-recordings)
-- UCLA Library's [Intro to R Recordings])(https://qcb.ucla.edu/collaboratory/workshops/w3-intro-to-r/#toggle-id-1-closed)
+- UCLA Library's [Intro to R Recordings](https://qcb.ucla.edu/collaboratory/workshops/w3-intro-to-r/#toggle-id-1-closed)
 - Learn R in R using [Swirl](https://swirlstats.com/students.html)
 - Institute for Quantitative Social Science [Workshops](https://iqss.github.io/dss-workshops/Rinstall.html)
 - Hadley Wickham's [R for Data Science](https://r4ds.had.co.nz/)
