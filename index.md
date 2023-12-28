@@ -26,7 +26,7 @@ layout: default
 
 [Week 1 Slides](docs/01Matrix.pdf)
 
-[Week 1 Handout Greek Letters](docs/The Greek Alphabet in Latex.pdf)
+[Week 1 Handout Greek Letters](docs/Greek_Alphabet_Latex.pdf)
 [Week 1 Handout Linear Algebra Exercise](docs/Matrix_Algebra_Questions.pdf)
 
 [Ozlem's notes from Week 1 class](docs/week1.md)
@@ -70,7 +70,9 @@ You have been working with R and R Studio since POLS 8805, but it is important t
 [Ozlem's notes from Week 2 class](docs/week2.md)
 
 ### Software and others 
-> No update here! I highly recommend GSU's R workshops. 
+> More on set theory and notation from [Penn State Stat 500 Course](https://online.stat.psu.edu/stat500/lesson/2/2.2)
+> Detailed explanation of [set theory notation](https://bookdown.org/tara_manon/MF_book/settheory.html).
+> I highly recommend GSU's R workshops. 
 
 ## Week 3
 
