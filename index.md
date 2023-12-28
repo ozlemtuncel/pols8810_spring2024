@@ -26,7 +26,7 @@ layout: default
 
 [Week 1 Slides](docs/01Matrix.pdf)
 
-[Week 1 Handout Greek Letters](docs/Greek_Alphabet_Latex.pdf)
+[Week 1 Handout Greek Letters](docs/Greek_Alphabet_LaTeX.pdf)
 
 [Week 1 Handout Linear Algebra Exercise](docs/Matrix_Algebra_Questions.pdf)
 
