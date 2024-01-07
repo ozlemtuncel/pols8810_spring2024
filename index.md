@@ -12,7 +12,7 @@ layout: default
 
 - **Class Location**: Langdale 1076
 
-- [**Syllabus**](docs/8810SyllabusSpr24.pdf)
+- **Syllabus** available [here](docs/8810SyllabusSpr24.pdf)
 
 # Ozlem's Office Hours and TA Sessions
 - My office: Langdale Hall Room 1027
