@@ -12,6 +12,8 @@ layout: default
 
 - **Class Location**: Langdale 1076
 
+- [**Syllabus**](docs/8810SyllabusSpr24.pdf)
+
 # Ozlem's Office Hours and TA Sessions
 - My office: Langdale Hall Room 1027
 - Office hours: **Tuesday 2:00 pm - 4:00 pm** & **Thursday 10:00 am - 12:00 pm**
