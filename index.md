@@ -89,7 +89,7 @@ You have been working with R and R Studio since POLS 8805, but it is important t
 
 [R script that I used to create input for this week's slide](docs/week3.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
-❗[The slides for Josh's workshop are here](docs/field-guide-to-base-r.pdf). ❗
+❗[The slides for GSU Library R workshop are here](docs/field-guide-to-base-r.pdf). ❗
 
 **Suggestions for descriptive stats (and other things)**
 For basic descriptive stats and understanding your data, base R is more than enough! So, do not bother with tidy language (which can be overkill sometimes). Here are some further suggestions and examples: 
