@@ -105,6 +105,9 @@ For basic descriptive stats and understanding your data, base R is more than eno
 - For graphing in ggplot and design decisions Josh highly recommends [Cederic Scherer's Graphic Design with ggplot2](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/), [Cederic Scherer's talks more generally](https://www.cedricscherer.com/top/portfolio/), and [Andrew Heiss's Data Visualization class](https://datavizs21.classes.andrewheiss.com/)
 - To make good tables in R with minimal effort Josh recommends [modelsummary](https://vincentarelbundock.github.io/modelsummary/index.html).
 
+**Problem Set 1**
+- Send the replication file through e-mail to Dr. Fix. Also, upload your paper to iCollege for plagiarism check.
+
 ## Week 4
 
 > ✔️ Goal: Get familiar with the basics of bivariate OLS.
