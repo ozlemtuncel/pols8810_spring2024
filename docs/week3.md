@@ -1,4 +1,4 @@
-# Week 3: Data (aka intro to EDA) (01/26/2023)
+# Week 3: Data (aka intro to EDA) (01/24/2024)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
@@ -10,7 +10,8 @@ otuncelgurlek1@gsu.edu
 ## Here are some key points:
 - This is a gentle introduction to **EDA** (exploratory data analysis) which is one of the crucial aspects of data analysis. 
 - **Modeling decisions** should come last - our data determines what kind of model we are going to use. 
-- **Cow analogy**: Assume that you are left in a desert. You are super hungary and suddently a cow appears from nowhere. You cannot eat the whole cow, but you can get a chunck out of it and consume. This is how theory and hypothesis are interrelated. Hypothesis is an observable implication of the theory and it is only one piece of the whole. We cannot never eat the whole cow (aka theory), but we can always take one bit (aka work one part of the theory, hypothesis). 
+- **Cow analogy**: Assume that you are left in a desert. You are super hungary and suddently a cow appears from nowhere. You cannot eat the whole cow, but you can get a chunck out of it and consume. This is how theory and hypothesis are interrelated. Hypothesis is an observable implication of the theory and it is only one piece of the whole. We cannot never eat the whole cow (aka theory), but we can always take one bit (aka work one part of the theory, hypothesis).
+- Good introduction sells the paper in terms of its contribution and importance.
 - Two main types of data: **discrete** or **continuous**.
 - Different levels of a variable: **nominal**, **ordinal**, **interval**, and **ratio** (has a true zero, zero means absolute lack of thing). 
 - We have 7 different data types in R: numeric, integer, double, complex, raw, logical, and character.
