@@ -138,6 +138,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 
 **Suggestions for matrix notation and residuals**
 - Here is a great overview of [matrix notation for OLS regression](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/explainRegression.html)
+- Make sure you read Dr. Fix's guide on [How to write methods section of a paper](docs/writingDataMethods.pdf)
 
 ## Week 6
 
