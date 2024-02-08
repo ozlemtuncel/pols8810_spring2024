@@ -139,7 +139,8 @@ For basic descriptive stats and understanding your data, base R is more than eno
 **Suggestions for matrix notation and residuals**
 - Here is a great overview of [matrix notation for OLS regression](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/explainRegression.html)
 - Make sure you read Dr. Fix's guide on [How to write methods section of a paper](docs/writingDataMethods.pdf)
-- An example from real life can be super helpful when working on your Problem Set. Make sure to think about existing articles and published work you read. For instance, see how this [Evers et al. (2019)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/is-there-a-trump-effect-an-experiment-on-political-polarization-and-audience-costs/BDD30AB0D76FD935B43952121A49C15A) article use variable names (see page 438). 
+- An example from real life can be super helpful when working on your Problem Set. Make sure to think about existing articles and published work you read. For instance, see how this [Evers et al. (2019)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/is-there-a-trump-effect-an-experiment-on-political-polarization-and-audience-costs/BDD30AB0D76FD935B43952121A49C15A) article use variable names (see page 438).
+- Here is a [t-table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf), here is an [exercise](https://www.statology.org/how-to-read-t-distribution-table/) on how to use it. 
 
 ## Week 6
 
