@@ -13,7 +13,7 @@ otuncelgurlek1@gsu.edu
 - Conflict data example: you have the whole population in Correlates of War (you know every conflict out there) and why you are using inferential statistics given that you have the question? Quick answer: parallel universe argument. Confused? [see here](https://dornsife.usc.edu/assets/sites/298/docs/Graham_IR_211_Lecture_13_-_Art_of_Causal_Inference_2.pdf) and [here](https://medium.com/@ishi.sohani/prooving-the-parallel-universe-with-some-statistics-and-probability-5542b1a2bd64).
 - Goal of the applied social science: explain some outcome with some set of variables. Can we really do that? NO. Humans are inpredictable. That's why things that we cannot explain systematically goes into the error term. 
 - Alone, point estimates are useless. That's why we are mostly interested in the **variance**. We hope $E(\bar{x}) = \mu$. Thus, we are mostly interested in the precision of our estimates - this helps us to make meaningful inferences. And, we denote uncertainity using confidence intervals. 
-- Gauss-Markov Theorem is the most important thing for this class - we understand when we can use OLS regression and cannot use it. 
+- Gauss-Markov Theorem is the most important thing for this class -- we understand when we can use OLS regression and cannot use it. 
 - Key assumptions we make:
   - X is fixed or non-stochastic/non-random (we will explain this later in detail and discuss how X can be fixed and random at the same time)
   - Y has both systematic and random/stochastic variation (randomness goes into the error term, and we assume error terms is i.i.d and normally distributed).
@@ -26,7 +26,7 @@ otuncelgurlek1@gsu.edu
 - Simply having more variation in our independent variable is going to lead to larger variation in our estimators. 
 - Z score is the coefficient estimate divided by the standard error => higher z score, low p-value 
 - If you have enough number of observations, you will get statistical significance. So, small number of sample size is bad, high number of sample size is meaningless.
-- Best means minimum variance among other estimators 
+- Best means minimum variance among other estimators.
 
 ## Some suggestions:
 - Here is an [exploratory regression shiny application](https://cran.r-project.org/web/packages/ERSA/vignettes/ERSA.html)
