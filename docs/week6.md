@@ -1,5 +1,5 @@
 
-# Week 6: Multiple Regression and Inference (02/16/2023)
+# Week 6: Multiple Regression and Inference (02/15/2023)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
