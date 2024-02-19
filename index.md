@@ -169,6 +169,7 @@ For basic descriptive stats and understanding your data, base R is more than eno
 [R script that I used to create input for week 7 slide](docs/week7.R) & [V-Dem dataset for the R script](https://drive.google.com/file/d/1IRS2gnECAuELEcG-CZOy1lO0lCys91up/view?usp=sharing)
 
 **Suggestions for week 7 material**
+- I see that a lot of you have difficulty with your R coding (in terms of style and aesthetics). I have the following resources that might help you out. [Resource 1](http://adv-r.had.co.nz/Style.html), [Resource 2](https://bookdown.org/yih_huynh/Guide-to-R-Book/r-conventions.html), and [Resource 3](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
 - Most of you are having difficulty with taking notes in your replication files. [Here is a great source on how to outline your scripts.](https://posit.co/blog/rstudio-v1-4-preview-little-things/)
 - There are several packages out there to help with OLS diagnostics: [performance](https://easystats.github.io/performance/index.html), [olsrr](https://cran.r-project.org/web/packages/olsrr/vignettes/intro.html), and [gvlma](https://cran.r-project.org/web/packages/olsrr/vignettes/intro.html).
 
