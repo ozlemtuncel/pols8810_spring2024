@@ -14,6 +14,8 @@ layout: default
 
 - **Syllabus** available [here](docs/8810SyllabusSpr24.pdf)
 
+- **Final exam**: Distributed Thursday, April 18, due within 48 hours.
+ 
 # Ozlem's Office Hours and TA Sessions
 - My office: Langdale Hall Room 1027
 - Office hours: **Tuesday 2:00 pm - 4:00 pm** & **Thursday 10:00 am - 12:00 pm**
