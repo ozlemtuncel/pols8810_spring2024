@@ -1,4 +1,4 @@
-# Week 1: Introduction to Matrix Algebra (01/12/2023)
+# Week 1: Introduction to Matrix Algebra (01/12/2024)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
