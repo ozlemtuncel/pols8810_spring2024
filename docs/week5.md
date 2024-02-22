@@ -1,4 +1,4 @@
-# Week 5: Inference and Introduction to Gauss-Markov Theorem (02/08/2023)
+# Week 5: Inference and Introduction to Gauss-Markov Theorem (02/08/2024)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
