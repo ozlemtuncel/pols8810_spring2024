@@ -11,8 +11,10 @@ otuncelgurlek1@gsu.edu
 - Substantive meaning: clearly describe the effect that you observe on your regression result. 
 - We can use interval and ratio as DV in OLS (and if we have enough number of categories, ordinal can be also used)
 - We can use factors, ordinal, interval, and ratio as independent variables. But, when using factors (binary variable), be careful about interpretation. 
-- Notational D is a vector of binary variables 
 - Dichotomous, dummy, factor, binary, indicator - these are all the same thing!
+- Use 0 and 1 for binary variables -- 1 representing the theoretical interest. Make sure to meaningfully name your variables.
+- Notational D is a vector of binary variables
+- "Expected values of Y for D (i.e., male) is ..." This is how we interpret dichotomous variables.
 - Since $D_l$ are mutually exclusive and exhaustive, we need to omit the "reference category" or $\beta_0$ (due to perfect multicollinearity)
 - If we omit the reference the category, it becomes the baseline, and we can interpret using the comparison with the baseline. 
 - How to choose a reference cateogry? Either there is natural neutral category in your variable (i.e., Independents, Neutral). Or, my theory can give a me a meaningful category to pick as a reference. If you do not have any guidence from theory, use the modal category (mode of the variable). 
