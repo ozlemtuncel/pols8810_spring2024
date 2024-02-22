@@ -19,7 +19,8 @@ otuncelgurlek1@gsu.edu
 - Since $D_l$ are mutually exclusive and exhaustive, we need to omit the "reference category" or $\beta_0$ (due to perfect multicollinearity)
 - If we omit the reference the category, it becomes the baseline, and we can interpret using the comparison with the baseline. 
 - How to choose a reference cateogry? Either there is natural neutral category in your variable (i.e., Independents, Neutral). Or, my theory can give a me a meaningful category to pick as a reference. If you do not have any guidence from theory, use the modal category (mode of the variable). 
-- Higher order transformations (e.g., squares) inflates high numbers and compresses small numbers; and lower-order transformations (e.g., logs) compresses large values and inflates smaller ones. 
+- Higher order transformations (e.g., squares) inflates high numbers and compresses small numbers; and lower-order transformations (e.g., logs) compresses large values and inflates smaller ones.
+- $\forall$ means "for all" and $s.t.$ means "such that"
 
 ## Some suggestions:
 - Want to learn more about factors in R, [see this](https://stats.oarc.ucla.edu/r/modules/factor-variables/)
