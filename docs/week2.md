@@ -1,4 +1,4 @@
-# Week 2: Probability (01/19/2023)
+# Week 2: Probability (01/19/2024)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
