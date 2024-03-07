@@ -1,4 +1,4 @@
-# Week 9: Variance Issues (03/09/2023)
+# Week 9: Variance Issues (03/07/2024)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
