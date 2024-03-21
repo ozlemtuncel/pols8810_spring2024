@@ -1,4 +1,4 @@
-# Week 11: Collinearity (03/23/2023)
+# Week 11: Collinearity (03/21/2024)
 Ozlem Tuncel 
 
 otuncelgurlek1@gsu.edu
@@ -11,7 +11,8 @@ otuncelgurlek1@gsu.edu
 - Around 1.5 page, and nothing less or more is not helpful. 
 - Introduction should be a one paragraph of brief summary of the manuscript, and your overall comment about the contribution.
 - Main body should be about main criticisms. 3 is the ideal number of major concerns. Spend a paragraph on each. If it is an obvious mistake, do not explain why. But if that is not a obvious one, make sure to include an explanation. Pair your criticism with a suggestion. 
-- End with minor points with bullet points. Major typos, formatting issues, aesthetics ... are some of the examples of minor issues. 
+- End with minor points with bullet points. Major typos, formatting issues, aesthetics ... are some of the examples of minor issues.
+- Memo and hard-copy in-person, final upload to iCollege and have a single pdf (and your R code).
   
  ## Here are some key points from the lecture:
  - Perfect multicollinearity deals with **$X$**. We assume that X is full rank, **$N>k$**, and sufficient variability in **$X$**. 
